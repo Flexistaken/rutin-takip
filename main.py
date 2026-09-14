@@ -1,0 +1,1 @@
+print("Burak Nizam Rutin Takip projesini yapmaya başlamıştır. 9/14/2026 - 23:19")
